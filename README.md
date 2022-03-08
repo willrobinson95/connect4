@@ -1,4 +1,4 @@
-# Connect4 ✔️
+# Connect4 ✔️⭕
 
 ## AWS February 2022 - School Of Tech
 
